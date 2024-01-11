@@ -1,5 +1,11 @@
-# The Mad Noodle Keypads Gen3
- Support and documentation for the Generation 3 of The Mad Noodle Keypads
+# The Mad Noodle Keypads Gen3 _(Deprecated)_
+ Support and documentation for Generation 3 of The Mad Noodle Keypads
+ > [!CAUTION]
+> **This repository has been deprecated. Please see the UPDATED [QMK Mad Noodle Keypads](https://github.com/The-Mad-Noodle/QMK-Mad-Noodle-KeyPads/tree/main) or [Mad Noodle VIA Support](https://github.com/The-Mad-Noodle/Mad-Noodle-Via-Support) repositories for up to date firmware and files.**
+<br>
+
+ 
+ 
  
 ![Mad Noodle Keypads](https://static.wixstatic.com/media/59d0ff_da03b7404ab9489395109a39dca177d5~mv2.png)
 
